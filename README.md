@@ -1,4 +1,4 @@
-# TOMD — Academic PDF/DOCX → AI-Friendly Markdown
+# TOMD — Academic PDF/DOCX → AI-Friendly Markdown 【完整版】
 
 批量预处理学术文献（论文/报告），输出干净、降噪的 Markdown，用于投喂大模型做文献综述、信息抽取、知识整理。**目标不是还原排版，而是提升文本质量、减少 AI 被噪声干扰。**
 
