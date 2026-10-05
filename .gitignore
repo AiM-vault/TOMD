@@ -1,1 +1,29 @@
-samplepapers
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# TOMD outputs
+out/
+_tmp_*/
+_tmp/
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+samplepapers/
+conversion_report.md     # 就地输出模式(--out-mode 1)会在源目录生成报告
+
+# 为将来打包 PyInstaller 准备
+dist/
+build/
+*.spec
+*.exe
+*.dmg
+
+venv/
+.env
+.pypirc
